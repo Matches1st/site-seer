@@ -1,0 +1,8 @@
+{
+  "name": "Incognito Web Previewer",
+  "description": "A dark-themed iframe-based web previewer with URL proxying and session-only history to browse sites privately without saving to browser history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
